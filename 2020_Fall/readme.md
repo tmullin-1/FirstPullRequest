@@ -81,7 +81,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Mubagwa, Akonkwa
 
-- [ ] Mullin, Terence
+- [ ] Mullin, Terence (tmullin-1)
 
 - [ ] Noweir, Noha
 
